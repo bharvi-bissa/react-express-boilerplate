@@ -1,0 +1,18 @@
+{
+  "name": "react-express-boilerplate",
+  "version": "1.0.0",
+  "description": "React-Express Boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Bharvi Bissa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
